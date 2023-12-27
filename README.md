@@ -1,4 +1,4 @@
-# NumPy Tutorial 
+
 
 ## Note
 Authored by me, this Jupyter Notebook is an extensive guide on NumPy, a cornerstone library for scientific computing in Python. Aimed at aiding learners at all levels in mastering NumPy, I have included a range of examples and explanations.
