@@ -1,14 +1,24 @@
+# Data Visualization Basics and More
+
+This repository contains a diverse collection of Jupyter Notebook files covering various topics related to data visualization, Python programming, and more.
+
+## Notebooks
+
+1. **data_visualization_basics.ipynb**
+   - This notebook delves into the fundamentals of data visualization, providing insights into creating informative plots and charts to effectively convey data insights.
+
+2. **indian_cuisine_recipes.ipynb**
 
 
-## Note
-Authored by me, this Jupyter Notebook is an extensive guide on NumPy, a cornerstone library for scientific computing in Python. Aimed at aiding learners at all levels in mastering NumPy, I have included a range of examples and explanations.
+3. **introductory_python_course_sessions.ipynb**
+   - Get started with Python programming through a series of introductory course sessions, covering essential Python concepts and hands-on exercises.
 
-## Contents
-- Comprehensive introduction to NumPy arrays
-- Detailed exploration of array operations and manipulations
-- In-depth coverage of mathematical functions in NumPy
-- Hands-on data handling and processing techniques
-- My personal examples demonstrating practical uses of NumPy
+4. **numpy_tutorial.ipynb**
+   - Dive into a comprehensive tutorial on NumPy, a fundamental library for numerical computations in Python, including array manipulation and mathematical operations.
 
-## How to Use
-This notebook is perfect for Python users keen on delving into data science or scientific computing. Run the cells in sequence to grasp each concept fully, as I have laid them out in a logical progression.
+5. **python_programming_basics.ipynb**
+   - Learn the basics of Python programming, from variables and data types to control structures and functions, making it an excellent resource for beginners.
+
+6. **python_skill_test_challenges.ipynb**
+
+
